@@ -1,4 +1,4 @@
-name: Java Senior Engineering Pipeline
+name: Application Pipeline
 
 on:
   push:
